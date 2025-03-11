@@ -21,6 +21,8 @@
   -the sum_range is the last parameter in SUMIF whereas sum_range is the first parameter in SUMIFS
    SUMIF(criteria_range1,criteria1,sum_range)
    SUMIFS(sum_range,criteria_range1,criteria1,criteria2...)
+
+   
 *7.WHat is the differnce between COUNTIF and COUNTIFS?
 *8.WHat is the differnce between AVERAGEIF and AVERAGEIFS?
 *9.WHat is the differnce between MAXIF and MAXIFS?
